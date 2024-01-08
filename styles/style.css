@@ -222,3 +222,54 @@
 }
 
 
+.holiday-sale {
+    margin: 0 auto 140px auto;
+    width: 1320px;
+}
+
+.holiday-sale .holiday-sale-text h3 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+}
+.holiday-sale .holiday-sale-text h2 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.holiday-sale .holiday-sale-text .holiday {
+    color: #F00;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    margin-bottom: 30px;
+}
+.holiday-sale .holiday-sale-text p {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    width: 1068px;
+    height: 96px;
+    text-align: center;
+    margin: 0 auto 60px auto;
+/* }  
+.holiday-sale .holiday-sale-image .red-block {
+
+}
+.holiday-sale .holiday-sale-image .surprise-box {
+   
+}
+.holiday-sale .holiday-sale-image .half-discount {
+    
+}
+.holiday-sale .holiday-sale-image .excited-girl {
+    
+} */
