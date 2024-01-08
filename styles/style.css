@@ -64,4 +64,12 @@
     font-family: Inter;
     font-size: 48px;
     font-weight: 700;
+    margin-bottom: 48px;
 }
+.new-year-img img {
+    width: 800px;
+    height: 500px; 
+    margin: 0 auto 120px auto;
+    display: block;
+}
+
