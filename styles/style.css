@@ -260,6 +260,10 @@
     height: 96px;
     text-align: center;
     margin: 0 auto 60px auto;
+}
+/* .holiday-sale .holiday-sale-image  {
+    display: inline-block;
+} */
 /* }  
 .holiday-sale .holiday-sale-image .red-block {
 
@@ -273,3 +277,36 @@
 .holiday-sale .holiday-sale-image .excited-girl {
     
 } */
+
+.portfolio {
+    margin: auto;
+    width: 1330px;
+
+}
+.portfolio .gifts h3 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.portfolio .gifts h2 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+}
+.portfolio .gifts p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    width: 895px;
+    height: 65px;
+    margin-bottom: 50px;
+}
+.portfolio img {
+    width: 420px;
+    height: 450px;
+    padding: 10px;
+    border-radius: 16px;
+}
