@@ -4,3 +4,32 @@
     font-family: 'Inter', sans-serif;
     font-family: 'Merriweather', serif;
 }
+/* ==========================================
+            HEADER RELATED STYLE            
+=========================================== */
+
+.banner {
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    margin: 50px auto;
+}
+.banner h3 {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+    padding-top: 175px;
+}
+.banner h1 {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    margin: 20px auto 0;
+    width: 632px;
+    height: 190px;
+}
