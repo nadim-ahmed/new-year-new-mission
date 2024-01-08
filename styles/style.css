@@ -15,6 +15,8 @@
     height: 600px;
     border-radius: 16px;
     margin: 50px auto;
+
+
 }
 .banner h3 {
     color: #FFF;
@@ -66,10 +68,54 @@
     font-weight: 700;
     margin-bottom: 48px;
 }
+
+
 .new-year-img img {
     width: 800px;
     height: 500px; 
     margin: 0 auto 120px auto;
     display: block;
 }
+
+
+.party-invitation {
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Vectorrr.png');
+    width: 1320px;
+    height: 600px;
+    margin: 0 auto 120px auto;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.party-invitation .text h2 {
+    width: 642px;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    letter-spacing: 7.04px;
+    margin-bottom: 25px;
+}
+.party-invitation .text p {
+    width: 697px;
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 48px;
+}
+.party-invitation .text input [type=button] {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    width: 100px;
+    height: 25px;
+}
+
+
+
+
 
