@@ -261,22 +261,7 @@
     text-align: center;
     margin: 0 auto 60px auto;
 }
-/* .holiday-sale .holiday-sale-image  {
-    display: inline-block;
-} */
-/* }  
-.holiday-sale .holiday-sale-image .red-block {
 
-}
-.holiday-sale .holiday-sale-image .surprise-box {
-   
-}
-.holiday-sale .holiday-sale-image .half-discount {
-    
-}
-.holiday-sale .holiday-sale-image .excited-girl {
-    
-} */
 
 .portfolio {
     margin: auto;
@@ -364,4 +349,72 @@
     font-family: Inter;
     font-size: 20px;
     font-weight: 600;
+}
+
+
+/* ==========================================
+            FOOTER RELATED STYLE            
+=========================================== */
+
+footer {
+    width: 1400px;
+    height: 400px;
+    background: #070211;
+    margin: auto;
+    padding: 120px 140px;
+}
+hr {
+    width: 1320px;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.15);
+    margin: 50px auto;
+}
+.contact {
+    width: 1320px;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+}
+.contact .address p {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.contact .contact-info .phone {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.contact .contact-info .website {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.social {
+    margin-left: 670px;
+}
+.social img {
+    padding-left: 15px;
+}
+.copyright {
+    width: 1320px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.copyright .copy{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.copyright .unsubscribe a {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    text-decoration: none;
 }
