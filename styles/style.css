@@ -168,20 +168,22 @@
     display: flex;
     justify-content: space-around;
 }
+.offer-coming-soon .new-offer {
+    padding-right: 120px;
+}
 .offer-coming-soon .new-offer h4 {
     color: #F00;
-    text-align: center;
+    text-align: left;
     font-family: Inter;
     font-size: 24px;
     font-weight: 500;
-    padding: 0;
+
 }
 .offer-coming-soon .new-offer h3 {
     color: #070211;
     font-family: Merriweather;
     font-size: 48px;
     font-weight: 900;
-    padding: 0;
 }
 .offer-coming-soon .new-offer p {
     color: rgba(7, 2, 17, 0.60);
@@ -195,6 +197,9 @@
     height: 360px;
     border-radius: 360px;
     border: 15px solid #F00;
+}
+.offer-coming-soon .new-year-deal {
+    padding-left: 120px;
 }
 .offer-coming-soon .new-year-deal h3 {
     color: #F00;
@@ -213,6 +218,7 @@
     width: 140px;
     height: 140px;
     margin-top: 45px;
+    padding-left: -50px;
 }
 
 
