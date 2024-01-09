@@ -9,14 +9,14 @@
             HEADER RELATED STYLE            
 =========================================== */
 
+/* ===========================BANNER SECTION STYLE============================== */
+
 .banner {
     background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Banner\ Image.png');
     width: 1320px;
     height: 600px;
     border-radius: 16px;
     margin: 50px auto;
-
-
 }
 .banner h3 {
     color: #FFF;
@@ -40,6 +40,8 @@
 /* ==========================================
             BODY RELATED STYLE            
 =========================================== */
+
+/* ===========================DISCOUNT SECTION STYLE============================== */
 
 .discount {
     margin: 120px auto 50px;
@@ -69,6 +71,7 @@
     margin-bottom: 48px;
 }
 
+/* ===========================NEW YEAR PHOTO SECTION STYLE============================== */
 
 .new-year-img img {
     width: 800px;
@@ -77,6 +80,7 @@
     display: block;
 }
 
+/* ===========================PARTY INVITATION SECTION STYLE============================== */
 
 .party-invitation {
     background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Vectorrr.png');
@@ -117,6 +121,7 @@
     border: 0;
 }
 
+/* ===========================PARTY-INFO SECTION STYLE============================== */
 
 .party-info {
     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
@@ -159,6 +164,7 @@
     font-weight: 700;
 }
 
+/* ===========================OFFER COMING SOON SECTION STYLE============================== */
 
 .offer-coming-soon {
     width: 1320px;
@@ -177,7 +183,6 @@
     font-family: Inter;
     font-size: 24px;
     font-weight: 500;
-
 }
 .offer-coming-soon .new-offer h3 {
     color: #070211;
@@ -222,12 +227,29 @@
     padding-left: -50px;
 }
 
+/* ===========================HOLIDAY SALE SECTION STYLE============================== */
 
 .holiday-sale {
     margin: 0 auto 140px auto;
     width: 1320px;
 }
-
+.holiday-sale .holiday-sale-image {
+    display: flex;
+    margin: auto;
+}
+.holiday-sale .holiday-sale-image .half-discount {
+    width: 220px;
+    height: 220px;
+    margin-top: 100px;
+}
+.holiday-sale .holiday-sale-image .excited-girl {
+    width: 429px;
+    height: 433px;
+}
+.holiday-sale .holiday-sale-image .surprise-box {
+    width: 600px;
+    margin-bottom: -200px;
+}
 .holiday-sale .holiday-sale-text h3 {
     color: #070211;
     font-family: Inter;
@@ -263,7 +285,7 @@
     margin: 0 auto 60px auto;
 }
 
-
+/* ===========================PORTFOLIO SECTION STYLE============================== */
 
 .portfolio {
     margin: auto;
@@ -298,6 +320,7 @@
     border-radius: 16px;
 }
 
+/* ===========================NEWSLETTER SECTION STYLE============================== */
 
 .newslater {
     width: 1320px;
@@ -353,10 +376,11 @@
     font-weight: 600;
 }
 
-
 /* ==========================================
             FOOTER RELATED STYLE            
 =========================================== */
+
+/* ===========================FOOTER SECTION STYLE============================== */
 
 footer {
     width: 1400px;
@@ -371,6 +395,9 @@ hr {
     background: rgba(255, 255, 255, 0.15);
     margin: 50px auto;
 }
+
+/* ===========================CONTACT SECTION STYLE============================== */
+
 .contact {
     width: 1320px;
     display: flex;
@@ -395,12 +422,18 @@ hr {
     font-size: 24px;
     font-weight: 500;
 }
+
+/* ===========================SOCIAL SECTION STYLE============================== */
+
 .social {
     margin-left: 500px;
 }
 .social img {
     padding-left: 15px;
 }
+
+/* ===========================COPYRIGHT SECTION STYLE============================== */
+
 .copyright {
     width: 1320px;
     display: flex;
