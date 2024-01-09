@@ -249,6 +249,7 @@
 .holiday-sale .holiday-sale-image .surprise-box {
     width: 600px;
     margin-bottom: -200px;
+    z-index: 1;
 }
 .holiday-sale .holiday-sale-text h3 {
     color: #070211;
