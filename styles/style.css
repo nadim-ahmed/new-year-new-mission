@@ -238,8 +238,11 @@
     margin: auto;
 }
 .holiday-sale .holiday-sale-image .half-discount {
-    width: 220px;
-    height: 220px;
+    width: 230px;
+    height: 230px;
+    margin-top: 100px;
+    position: absolute;
+    margin-left: -112px;
     margin-top: 100px;
 }
 .holiday-sale .holiday-sale-image .excited-girl {
@@ -248,8 +251,11 @@
 }
 .holiday-sale .holiday-sale-image .surprise-box {
     width: 600px;
-    margin-bottom: -200px;
-    z-index: 1;
+    margin-bottom: -250px;
+    z-index: 999;
+}
+.holiday-sale .holiday-sale-image .discount-overlap {
+    margin-left: 292px;
 }
 .holiday-sale .holiday-sale-text h3 {
     color: #070211;
