@@ -169,7 +169,7 @@
     justify-content: space-around;
 }
 .offer-coming-soon .new-offer {
-    padding-right: 120px;
+    padding-right: 80px;
 }
 .offer-coming-soon .new-offer h4 {
     color: #F00;
@@ -197,9 +197,10 @@
     height: 360px;
     border-radius: 360px;
     border: 15px solid #F00;
+    padding: 40px;
 }
 .offer-coming-soon .new-year-deal {
-    padding-left: 120px;
+    padding-left: 80px;
 }
 .offer-coming-soon .new-year-deal h3 {
     color: #F00;
@@ -261,6 +262,7 @@
     text-align: center;
     margin: 0 auto 60px auto;
 }
+
 
 
 .portfolio {
@@ -333,7 +335,7 @@
     border-radius: 50px 0 0 50px;
     color: rgba(7, 2, 17, 0.30);
     text-align: center;
-    margin-left: 330px;
+    margin-left: 320px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -394,7 +396,7 @@ hr {
     font-weight: 500;
 }
 .social {
-    margin-left: 670px;
+    margin-left: 500px;
 }
 .social img {
     padding-left: 15px;
